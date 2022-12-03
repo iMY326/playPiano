@@ -7,10 +7,10 @@ import java.io.File;
 
 /**
  * @author gulihua
- * @Description
+ * @Description 起风了
  * @date 2022-11-13 17:52
  */
-public class Test1 {
+public class QiFengLe {
     public static void main(String[] args) {
         String path =
                 new File("").getAbsolutePath() + File.separator + "src/main/resources/notes" + File.separator;
